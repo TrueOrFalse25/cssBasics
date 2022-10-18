@@ -1,12 +1,28 @@
+table
+{
+    border-collapse: collapse;
+    font-size:30px;
+}
+td
+{
+    padding: 7px;
+    border: solid gray 5px;
+}
 tr:nth-child(odd)
 {
     background-color: #10b442;
 }
-tr th
+thead
 {
     background-color: #427fef;
+    color: white;
+    padding-right:20px;
 }
-th, tr
+tr th{
+    color:white;
+    background-color: #427fef;
+}
+tfoot
 {
-    border-bottom: 1px solid #c4dcf3;
+    text-align: left;
 }
