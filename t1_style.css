@@ -1,0 +1,12 @@
+tr:nth-child(odd)
+{
+    background-color: #10b442;
+}
+tr th
+{
+    background-color: #427fef;
+}
+th, tr
+{
+    border-bottom: 1px solid #c4dcf3;
+}
