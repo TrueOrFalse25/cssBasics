@@ -1,0 +1,8 @@
+.square {
+    width: 300px;
+    height: 300px;
+    box-shadow: lightgray 10px 10px;
+    border-radius: 10px;
+    background-color: #ffc1cc;
+    /* This took me about 15 minutes. I could easily set the width, height, and light hex background color but I had to look up how to make the box shadow and make its borders rounded. */
+}

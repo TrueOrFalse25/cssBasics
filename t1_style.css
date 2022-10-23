@@ -18,7 +18,7 @@ thead
     color: white;
     padding-right:20px;
 }
-tr th{
+tr th {
     color:white;
     background-color: #427fef;
 }
@@ -26,3 +26,4 @@ tfoot
 {
     text-align: left;
 }
+/* This took me about 1.25 hours to do. It was difficult for me to figure out which selector I had to use and that I had to make a separate id for tfoot. */
